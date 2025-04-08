@@ -33,7 +33,7 @@ Ce projet contient la base de données pour le restaurant Le Tifosi, spécialis�
 
    c. Insertion des données :
    ```sql
-   source schema/03_insert_data.sql
+   source data/03_insert_data.sql
    ```
 
    d. Test des requêtes :
